@@ -1,0 +1,36 @@
+C:\Users\OPTIMUSS\Desktop\prog3\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\OPTIMUSS\Desktop\prog3\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\OPTIMUSS\Desktop\prog3\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\OPTIMUSS\Desktop\prog3\calculadora\calculadora\obj\Debug\calculadora.Calculadora.resources
+C:\Users\OPTIMUSS\Desktop\prog3\calculadora\calculadora\obj\Debug\calculadora.Form2.resources
+C:\Users\OPTIMUSS\Desktop\prog3\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\OPTIMUSS\Desktop\prog3\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Users\OPTIMUSS\Desktop\prog3\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\OPTIMUSS\Desktop\prog3\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\OPTIMUSS\Desktop\prog3\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+C:\Users\OPTIMUSS\Desktop\prog3\calculadora\calculadora\obj\Debug\calculadora.Form3.resources
+C:\Users\OPTIMUSS\Desktop\sitemas 4semestre\prog3\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\OPTIMUSS\Desktop\sitemas 4semestre\prog3\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\OPTIMUSS\Desktop\sitemas 4semestre\prog3\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\OPTIMUSS\Desktop\sitemas 4semestre\prog3\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\OPTIMUSS\Desktop\sitemas 4semestre\prog3\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\OPTIMUSS\Desktop\sitemas 4semestre\prog3\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+C:\Users\OPTIMUSS\Desktop\sitemas 4semestre\prog3\calculadora\calculadora\obj\Debug\calculadora.Calculadora.resources
+C:\Users\OPTIMUSS\Desktop\sitemas 4semestre\prog3\calculadora\calculadora\obj\Debug\calculadora.Form2.resources
+C:\Users\OPTIMUSS\Desktop\sitemas 4semestre\prog3\calculadora\calculadora\obj\Debug\calculadora.Form3.resources
+C:\Users\OPTIMUSS\Desktop\sitemas 4semestre\prog3\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\OPTIMUSS\Desktop\sitemas 4semestre\prog3\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Users\OPTIMUSS\Desktop\Escritorio\Nueva carpeta (5)\sitemas 4semestre\prog3\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\OPTIMUSS\Desktop\Escritorio\Nueva carpeta (5)\sitemas 4semestre\prog3\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\OPTIMUSS\Desktop\Escritorio\Nueva carpeta (5)\sitemas 4semestre\prog3\calculadora\calculadora\obj\Debug\calculadora.pdb
+F:\calculadoraaaaaaaaa\calculadora\bin\Debug\calculadora.exe.config
+F:\calculadoraaaaaaaaa\calculadora\obj\Debug\calculadora.exe
+F:\calculadoraaaaaaaaa\calculadora\obj\Debug\calculadora.pdb
+F:\calculadoraaaaaaaaa\calculadora\bin\Debug\calculadora.exe
+F:\calculadoraaaaaaaaa\calculadora\bin\Debug\calculadora.pdb
+F:\calculadoraaaaaaaaa\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+F:\calculadoraaaaaaaaa\calculadora\obj\Debug\calculadora.Calculadora.resources
+F:\calculadoraaaaaaaaa\calculadora\obj\Debug\calculadora.Form2.resources
+F:\calculadoraaaaaaaaa\calculadora\obj\Debug\calculadora.Form3.resources
+F:\calculadoraaaaaaaaa\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+F:\calculadoraaaaaaaaa\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
